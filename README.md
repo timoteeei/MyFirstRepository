@@ -10,3 +10,10 @@ We already know following things:
 * What is Git
 * What is GitHub
 * What is Markdown 
+* What is Commit
+
+# What else we need to know
+* Branch
+* Send to the remote repository (Push)
+* Refresh of local repository (Pull / Fetch)
+* Merge
